@@ -1,0 +1,11 @@
+{
+  "categories": ["Hot", "Iced", "Cold", "Pour Over", "Goods", "Take Away"],
+  "items": [
+    { "name": "Iced Spanish Latte", "nameAr": "لاتيه إسباني مثلج", "category": "Iced", "description": "Silky milk, espresso, condensed sweetness.", "price": 115, "tags": ["Best Seller"] },
+    { "name": "Matcha Cloud", "nameAr": "ماتشا كلاود", "category": "Iced", "description": "Ceremonial matcha, vanilla cream, ice.", "price": 135, "tags": ["New"] },
+    { "name": "Biscoff Frappe", "nameAr": "فرابيه بيسكوف", "category": "Cold", "description": "Cold brew, biscuit cream, caramel crumb.", "price": 145, "tags": ["Signature"] },
+    { "name": "Flat White", "nameAr": "فلات وايت", "category": "Hot", "description": "Double espresso with micro-foamed milk.", "price": 95, "tags": [] },
+    { "name": "V60 Ethiopia", "nameAr": "V60 إثيوبيا", "category": "Pour Over", "description": "Jasmine, citrus, black tea. Light roast.", "price": 150, "tags": ["Single Origin"] },
+    { "name": "Chocolate Croissant", "nameAr": "كرواسون شوكولاتة", "category": "Goods", "description": "Butter laminated pastry, dark chocolate.", "price": 85, "tags": [] }
+  ]
+}
